@@ -1,6 +1,7 @@
 Medical Device Data Simulation and Cloud Dashboard: This project simulates medical device data, uploads it to Oracle Cloud Object Storage, and provides an interactive dashboard to analyze the data. 
 
-Clone this repository: git clone https://github.com/yourusername/yourproject.git
+Clone this repository:
+git clone https://github.com/yourusername/yourproject.git
 cd yourproject
 
 Install Python dependencies: pip install -r requirements.txt
