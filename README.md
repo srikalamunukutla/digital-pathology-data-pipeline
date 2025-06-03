@@ -2,6 +2,7 @@ Medical Device Data Simulation and Cloud Dashboard: This project simulates medic
 
 Clone this repository:
 git clone https://github.com/yourusername/yourproject.git
+
 cd yourproject
 
 Install Python dependencies: pip install -r requirements.txt
